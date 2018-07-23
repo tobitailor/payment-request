@@ -1,0 +1,16 @@
+{
+  "name": "payment-request",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Tobias Schneider <schneider@jancona.com>",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-stage-2": "^6.24.1"
+  }
+}

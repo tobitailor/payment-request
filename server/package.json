@@ -1,0 +1,12 @@
+{
+    "name": "payment-request-server",
+    "version": "0.1.0",
+    "scripts": {
+      "create": "AWS_PROFILE=default AWS_REGION=us-east-2 arc-create",
+      "deploy": "AWS_PROFILE=default AWS_REGION=us-east-2 arc-deploy",
+      "start": "AWS_PROFILE=default AWS_REGION=us-east-2 NODE_ENV=testing arc-sandbox"
+    },
+    "dependencies": {
+      "@architect/workflows": "^2.8.1"
+    }
+}

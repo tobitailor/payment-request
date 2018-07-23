@@ -1,0 +1,8 @@
+{
+    "name": "-post-applepay-validate",
+    "dependencies": {
+        "@architect/data": "^2.0.3",
+        "@architect/functions": "^1.8.12",
+        "node-fetch": "^2.1.2"
+    }
+}
